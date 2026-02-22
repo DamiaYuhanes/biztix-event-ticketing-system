@@ -1,0 +1,17 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Environment / secrets (if you add later)
+.env
+
+# XAMPP temp or cache files (if any)
+tmp/
+cache/
+
+# Uploaded files (if you create uploads later)
+uploads/
